@@ -1,1 +1,3 @@
-# AI_Prompt_Optimizer
+# AI Prompt Optimizer Using Prompt Engineering
+
+AI Prompt Optimizer is a lightweight, rule-based Prompt Engineering application developed using Python and Streamlit to transform vague or incomplete prompts into clear, structured, and effective prompts. The system analyzes key prompt components such as role, context, task, target audience, constraints, output format, and examples, then generates an optimized prompt based on selected modes including General, Academic, Coding, Research, Resume, Creative Writing, and Business. It also provides prompt quality scores, before-and-after component analysis, improvement summaries, and example prompts. The application runs completely locally without requiring any external API, API key, database, or specialized hardware.
